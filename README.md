@@ -89,8 +89,8 @@ Dashboards are used to **support narratives**, not replace them.
 
 ## Project Folder Structure
 
+```text
 luxury_housing/
-│
 ├── .venv/
 │   └── pyvenv.cfg
 │
