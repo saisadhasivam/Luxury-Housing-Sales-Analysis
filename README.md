@@ -4,12 +4,10 @@
 ---
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Desktop-orange?logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue?logo=numpy&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 ## Project Overview
