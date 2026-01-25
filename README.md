@@ -128,7 +128,7 @@ luxury_housing/
 │   └── 05_submission_checklist.md
 │
 └── README.md
----
+```
 
 ## Key Deliverables
 
