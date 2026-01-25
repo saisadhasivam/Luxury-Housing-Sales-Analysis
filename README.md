@@ -90,6 +90,7 @@ Dashboards are used to **support narratives**, not replace them.
 ## Project Folder Structure
 
 luxury_housing/
+│
 ├── .venv/
 │   └── pyvenv.cfg
 │
@@ -111,12 +112,13 @@ luxury_housing/
 │   └── 05_analytical_views.sql
 │
 ├── 04_tableau/
-│   ├── dashboards/
-│   │   └── Luxury_Housing_Market_Structure.twbx
-│   └── data_exports/
-│       ├── vw_booking_behavior.csv
-│       ├── vw_locality_conversion.csv
-│       └── vw_pricing_insights.csv
+│   └── dashboards/
+│       └── Luxury_Housing_Market_Structure.twbx
+│
+├── data_exports/
+│   ├── vw_booking_behavior.csv
+│   ├── vw_locality_conversion.csv
+│   └── vw_pricing_insights.csv
 │
 ├── 05_documentation/
 │   ├── 01_market_narratives.md
@@ -126,7 +128,6 @@ luxury_housing/
 │   └── 05_submission_checklist.md
 │
 └── README.md
-
 ---
 
 ## Key Deliverables
